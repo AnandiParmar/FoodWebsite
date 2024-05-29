@@ -25,7 +25,7 @@ export default function Nav() {
           }`}
         ></span>
       </button>
-      <div
+      < div
         className={`${isNavCollapsed ? "collapse" : ""}  navbar-collapse `}
         id="navbarsExample09"
       >
