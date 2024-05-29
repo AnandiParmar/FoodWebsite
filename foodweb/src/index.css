@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  text-decoration: none;
+}
+body {
+  padding: 0px 15px;
+}
+.sign {
+  color: gray;
+  border: 1px solid orangered;
+  border-radius: 8px;
+}
